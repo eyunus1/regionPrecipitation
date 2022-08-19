@@ -1,5 +1,4 @@
-# regionPrecipitation
-regionPrecipitationTurkey
+
   {
     "precipitation":
     {
