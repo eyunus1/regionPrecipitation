@@ -5,17 +5,11 @@ regionPrecipitationTurkey
     {
       "regions":[
       {
+        {"Marmara Bölgesi":"16.9},
+        {"Ege":"4.3"},
+        {"Akdeniz":"2.3"},
         {
-        "Marmara Bölgesi":"16.9
-        },
-        {
-        "Ege":"4.3"
-        },
-        {
-        "Akdeniz":"2.3"
-        },
-        {
-        "İç Anadolu":"7.6"
+"İç Anadolu":"7.6"
         },
         {
         "Karadeniz":"25.4"
